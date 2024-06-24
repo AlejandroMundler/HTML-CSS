@@ -80,11 +80,11 @@ body {
   }
   
   a {
-    color: black;
+    color: pink;
   }
   
   a:visited {
-    color: black;
+    color: pink;
   }
   
   a:hover {
