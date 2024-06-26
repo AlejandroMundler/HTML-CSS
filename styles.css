@@ -78,13 +78,13 @@ body {
   .address {
     margin-bottom: 5px;
   }
-  
+
   a {
-    color: pink;
+    color: black;
   }
   
   a:visited {
-    color: pink;
+    color: black;
   }
   
   a:hover {
